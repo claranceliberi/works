@@ -6,7 +6,7 @@ some of the work i did
 - [kurious learn](https://kurious.rw/)
 All in one tool for education institution, this will help colleges,highschools and university to bring everything in their campuses to technology, from sharing courses to discusions. </br>
 Kurious learn connects a deep understanding of education with the power of technology to push the boundaries of learning
-- [stunicons](https://github.com/Stunnity/stunicons)
-- [stunicons.com](https://stunicons.com/)
+- [stunicons](https://github.com/Stunnity/stunicons) Burgeoning pack with 100+ highly customizable icons for your outstanding UI.
+- [stunicons.com](https://stunicons.com/) stunicons website
 - [huntersofbooks](https://dev.huntersofbook.com/)
 - [luckyscore](https://www.luckyscore.live/)
