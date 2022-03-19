@@ -1,5 +1,5 @@
 # works
-some of the work i did
+some of the work i would like to share
 
 - [stunlab](https://stunlabmobile.herokuapp.com/)
   Platform that makes it easy for students to get learning books and track their progress in learning,making tests and suggest area of improvment
