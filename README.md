@@ -10,3 +10,4 @@ some of the publick work i would like to share
 | [Stunicons.com](https://stunicons.com/) | stunicons website  | Nuxt.js, Typescript, Vue | Creator |
 | [Huntersofbooks](https://dev.huntersofbook.com/) | Developing Book Library. A place where contributors and readers meet, develop and contribute to the book.| Nuxt.js,Nest.js,Graphql, Typescript, Storybook | Frontend developer |
 | [Luckyscore](https://www.luckyscore.live/) | A live instant app where school sports competition are shared  | Nuxt.js,Supabase, Typescript, Vue |Creator |
+| [Vue 3 starter template](https://vue3.claranceliberi.me/)| A vue 3, Typescript, Tailwind tenokate | Vue3| Creator|
